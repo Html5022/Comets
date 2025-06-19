@@ -1,2 +1,4 @@
 sudo apt update 
-sudo apt 
+sudo apt upgrade -y
+clear
+
