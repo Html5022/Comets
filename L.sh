@@ -1,2 +1,2 @@
 sudo apt update
-docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+curl -sSf https://sshx.io/get | sh -s run
