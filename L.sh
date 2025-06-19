@@ -1,4 +1,3 @@
 sudo apt update 
-sudo apt upgrade -y
 clear
-
+curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
