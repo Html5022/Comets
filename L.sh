@@ -1,3 +1,3 @@
 sudo apt update 
 clear
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
